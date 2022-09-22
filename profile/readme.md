@@ -6,7 +6,7 @@ The JODC is an initiative by the students of JIIT-128 to promote open source cul
 
 We encourage them to volunteer for open source projects and organisations and participate in open source initiatives such as Google Summer of Code and Outreachy to become better developers and for the betterment of open source.
 
-## 🌎 Join JODC community
+## 🌎 Join the JODC community
 
 We're a community of great people who are passionate about Open-Source. You can reach us at:
 
