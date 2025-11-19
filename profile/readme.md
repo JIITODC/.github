@@ -11,4 +11,4 @@ We encourage them to volunteer for open source projects and organisations and pa
 We're a community of great people who are passionate about Open-Source. You can reach us at:
 
 - **Website**: https://ossdevs.com
-- **Discord**: https://discord.io/jodc
+- **Discord**: https://discord.gg/jiit-open-source-developer-s-community-475154983910899722
